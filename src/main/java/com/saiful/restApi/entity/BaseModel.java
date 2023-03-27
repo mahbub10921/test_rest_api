@@ -17,7 +17,7 @@ import java.util.Objects;
 @Getter
 @Setter
 public abstract class BaseModel implements Serializable {
-
+//kuddus
     private static final long serialVersionUID = 1L;
 
     @Id
